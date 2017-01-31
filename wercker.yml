@@ -70,4 +70,4 @@ deploy:
        org: $ORG
        space: $SPACE
        appname: wercker-step-hello
-       docker_image: StonedAnt/book-hello
+       docker_image: blueant2014/book-hello
