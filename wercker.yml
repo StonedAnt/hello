@@ -60,7 +60,7 @@ deploy:
        cmd: /pipeline/source/hello
        port: "8080"
        tag: latest
-       repository: StonedAnt/book-hello
+       repository: blueant2014/book-hello
        registry: https://registry.hub.docker.com
 
    - cng/cf-deploy:
